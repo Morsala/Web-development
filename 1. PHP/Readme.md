@@ -49,3 +49,14 @@
 5. Пролистываем вниз и нажимаем кнопку `Сохранить`
 
 Все, база данных готова)
+
+## Домашнее задание
+
+1. Сверстать 3 страницы: Авторизация, Регистрация, Список дел (Пример на скринах)
+
+![image](https://user-images.githubusercontent.com/47351812/217252081-65a5133d-c3e5-45d5-a4af-6c8e9ec95660.png)
+![image](https://user-images.githubusercontent.com/47351812/217252192-be11ead9-c310-46b8-9a7d-3aecd588f174.png)
+![image](https://user-images.githubusercontent.com/47351812/217252400-f278ac5e-0ee7-4e99-a30a-2fe601431b22.png)
+
+3. Прочитать про синтаксис `php` [здесь](https://metanit.com/php/tutorial/)
+4. Написать на `php` вывод содержимого всех полей `input`
