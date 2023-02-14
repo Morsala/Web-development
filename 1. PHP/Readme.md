@@ -58,5 +58,5 @@
 ![image](https://user-images.githubusercontent.com/47351812/217252192-be11ead9-c310-46b8-9a7d-3aecd588f174.png)
 ![image](https://user-images.githubusercontent.com/47351812/217252400-f278ac5e-0ee7-4e99-a30a-2fe601431b22.png)
 
-3. Прочитать про синтаксис `php` [здесь](https://metanit.com/php/tutorial/)
+3. Прочитать про синтаксис `php` [здесь](https://metanit.com/php/tutorial/) и [здесь](https://php.net)
 4. Написать на `php` вывод содержимого всех полей `input`
