@@ -17,3 +17,4 @@
 3. [Руководство по php](https://metanit.com/php/tutorial/) 
 4. [Мануал/Документация по php](https://www.php.net) - очень полезный ресурс со всеми функциями `php`
 5. [Куки](https://learn.javascript.ru/cookie)
+6. [Django](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django/development_environment)
